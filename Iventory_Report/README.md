@@ -58,7 +58,7 @@ Number                    Description                            Quantity       
 12345                Ballpeen Hammer                                  55               18.75                  1,031.25
 44021                  3 inch Trowel                                  38               10.74                    408.12
 30127                 1/4 inch Drill                                  16               34.89                    558.24
-32678                  Chlorox Wipes                                  35                7.95                    278.25
+32678                  Clorox Wipes                                  35                7.95                    278.25
 13579                     Box Wrench                                  48               20.35                     976.8
                                                                                                        Total: 10,944.13
-                                                                                                       ```
+```
