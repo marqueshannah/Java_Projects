@@ -22,8 +22,10 @@ git clone https://github.com/marqueshannah/Java_Projects.git
 
 3. Compile and run the `CreditCardDemo` class.
 
+```
 javac CreditCardDemo.java
 java CreditCardDemo
+````
 
 4. Compile and run the `MoneyDemo` class.
 
